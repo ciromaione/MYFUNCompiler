@@ -1,0 +1,8 @@
+fun prova(): integer
+    return 1;
+end fun;
+
+main
+    integer x := prova();
+    real y := prova();
+end main;

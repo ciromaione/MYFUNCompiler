@@ -1,0 +1,8 @@
+var a := 1, b := "prova";
+
+main
+    integer a;
+    if true then
+        real a;
+    end if;
+end main;
